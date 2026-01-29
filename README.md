@@ -34,6 +34,7 @@ SUPPORT:
 - Close all programs before optimization
 
 =======================================
+
 All rights reserved © 2025
 Free to use and share
 =======================================
